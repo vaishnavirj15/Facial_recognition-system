@@ -54,10 +54,10 @@ This project is a Flask-based web application that automates attendance manageme
 ---
 
 
-### **Notes
--**Ensure the data folder contains labeled facial data for recognition**.
--**The system currently supports 3 labels but can be expanded as needed**.
--**The system uses haar-cascade-classifier for initial face detection**.
+### **Notes**
+- **Ensure the data folder contains labeled facial data for recognition**.
+- **The system currently supports 3 labels but can be expanded as needed**.
+- **The system uses haar-cascade-classifier for initial face detection**.
 ---
 
 ### Key Highlights:
